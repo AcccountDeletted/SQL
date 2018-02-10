@@ -1,3 +1,6 @@
+-- Relación de ejercicios
+
+
 -- 1.
 
 SELECT grupo, calificacion
